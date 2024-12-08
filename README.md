@@ -1,2 +1,3 @@
 # game-js
-My 1st repositorym. m
+My 1st repository
+Author Tania Yousaf
